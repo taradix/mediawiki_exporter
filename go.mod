@@ -3,7 +3,7 @@ module github.com/clockworksoul/mediawiki_exporter
 go 1.18
 
 require (
-	github.com/clockworksoul/mediawiki v0.0.4
+	github.com/clockworksoul/mediawiki v0.0.6
 	github.com/prometheus/client_golang v1.14.0
 )
 
